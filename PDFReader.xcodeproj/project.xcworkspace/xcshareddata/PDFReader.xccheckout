@@ -14,7 +14,7 @@
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>DBE8D7E245E4F2D257B62BA793F87B95310CF4F2</key>
-		<string>PDFReader/</string>
+		<string>PDFReader</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/jbabu/PDFReader.git</string>
