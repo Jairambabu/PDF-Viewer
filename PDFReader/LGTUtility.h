@@ -2,8 +2,9 @@
 //  DSUtility.h
 //  DocuStrator
 //
-//  Created by Ravichandran Venkatraman on 26/05/14.
-//  Copyright (c) 2014 ConnexInfoSystem. All rights reserved.
+//  Created by Jairam Babu on 6/11/14.
+//  Copyright (c) 2014 JairamBabu. All rights reserved.
+//
 //
 
 #import <Foundation/Foundation.h>

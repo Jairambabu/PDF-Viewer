@@ -2,8 +2,8 @@
 //  PDFDownLoadClass.h
 //  DocuStrator
 //
-//  Created by connexmac2 on 6/11/14.
-//  Copyright (c) 2014 ConnexInfoSystem. All rights reserved.
+//  Created by Jairam Babu on 6/11/14.
+//  Copyright (c) 2014 JairamBabu. All rights reserved.
 //
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>

@@ -1,9 +1,9 @@
 //
-//  DSPersonalNotesViewController.h
-//  DocuStrator
+//  LGTPDFViewerViewController.h
+//  PDFReader
 //
-//  Created by connexmac2 on 9/17/14.
-//  Copyright (c) 2014 ConnexInfoSystem. All rights reserved.
+//  Created by Jairam bau on 9/17/14.
+//  Copyright (c) 2014 jairam babu. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

@@ -1,4 +1,6 @@
-
+//  Created by Jairam Babu on 6/11/14.
+//  Copyright (c) 2014 JairamBabu. All rights reserved.
+//
 
 #import "LGTViewerBottomCell.h"
 

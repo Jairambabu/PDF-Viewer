@@ -31,7 +31,7 @@
     //    [webView loadRequest:request];
     //[parentView addSubview:webView];
     NSLog(@"%@",[self data]);
-    [self.webview loadHTMLString:[self data] baseURL:nil];
+   // [self.webview loadHTMLString:[self data] baseURL:nil];
     
     //   frame.size.height=webView.scrollView.contentSize.height;
     // self.webview.frame=frame;
